@@ -10,16 +10,16 @@ Bu Gizlilik Politikası, elBeyan Sözlük mobil uygulamasının kullanıcıları
 
 ##Kişisel Veriler: elBeyan Sözlük uygulaması, kullanıcılarından doğrudan hiçbir kişisel veri toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz. Uygulamanın kullanımına dair herhangi bir kullanıcı kimliği, e-posta adresi veya kişisel bilgi işlenmemektedir.
 
-## Reklamlar ve Üçüncü Taraf Hizmetleri:
+### Reklamlar ve Üçüncü Taraf Hizmetleri:
 elBeyan Sözlük uygulaması, Google AdMob hizmetleri aracılığıyla reklamlar göstermektedir. Google AdMob, kişiselleştirilmiş reklamlar göstermek ve reklam performansını analiz etmek amacıyla belirli kullanıcı bilgilerini toplayabilir. Bu bilgiler şunları içerebilir:
 
-#### Cihaz Bilgileri (Cihaz türü, işletim sistemi, benzersiz cihaz kimlikleri gibi)
+Cihaz Bilgileri (Cihaz türü, işletim sistemi, benzersiz cihaz kimlikleri gibi)
 
-#### IP Adresi
+IP Adresi
 
-#### Coğrafi Konum (Genellikle genel konum)
+Coğrafi Konum (Genellikle genel konum)
 
-#### Reklam Kimlikleri (IDFA veya AAID gibi)
+Reklam Kimlikleri (IDFA veya AAID gibi)
 
 Google AdMob’un veri toplama ve işleme politikaları hakkında daha fazla bilgi almak için lütfen Google AdMob Gizlilik Politikası sayfasını ziyaret edin.
 
