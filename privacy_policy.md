@@ -1,4 +1,4 @@
-#### Gizlilik Politikası
+## Gizlilik Politikası
 
 Son Güncelleme Tarihi: 22 Mart 2025 Uygulama Adı: elBeyan Sözlük İletişim Adresi: elbeyanapp@gmail.com
 
@@ -13,13 +13,13 @@ Bu Gizlilik Politikası, elBeyan Sözlük mobil uygulamasının kullanıcıları
 ## Reklamlar ve Üçüncü Taraf Hizmetleri:
 elBeyan Sözlük uygulaması, Google AdMob hizmetleri aracılığıyla reklamlar göstermektedir. Google AdMob, kişiselleştirilmiş reklamlar göstermek ve reklam performansını analiz etmek amacıyla belirli kullanıcı bilgilerini toplayabilir. Bu bilgiler şunları içerebilir:
 
-## Cihaz Bilgileri (Cihaz türü, işletim sistemi, benzersiz cihaz kimlikleri gibi)
+#### Cihaz Bilgileri (Cihaz türü, işletim sistemi, benzersiz cihaz kimlikleri gibi)
 
-## IP Adresi
+#### IP Adresi
 
-## Coğrafi Konum (Genellikle genel konum)
+#### Coğrafi Konum (Genellikle genel konum)
 
-## Reklam Kimlikleri (IDFA veya AAID gibi)
+#### Reklam Kimlikleri (IDFA veya AAID gibi)
 
 Google AdMob’un veri toplama ve işleme politikaları hakkında daha fazla bilgi almak için lütfen Google AdMob Gizlilik Politikası sayfasını ziyaret edin.
 
