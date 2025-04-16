@@ -1,44 +1,61 @@
-## Gizlilik Politikası
+##Gizlilik Politikası
+Son Güncelleme Tarihi: 17 Nisan 2025
+Uygulama Adı: elBeyan Sözlük
+İletişim Adresi: elbeyanapp@gmail.com
 
-Son Güncelleme Tarihi: 22 Mart 2025 Uygulama Adı: elBeyan Sözlük İletişim Adresi: elbeyanapp@gmail.com
+###1. Giriş
+Bu Gizlilik Politikası, elBeyan Sözlük mobil uygulamasının kullanıcılarının gizliliğini koruma taahhüdünü açıklamaktadır. Uygulamamız; reklam göstermek, uygulama deneyimini analiz etmek ve kullanıcıya özel içerikler sunmak amacıyla bazı üçüncü taraf hizmet sağlayıcılarını kullanmaktadır. Uygulama, kullanıcıların kişisel verilerini doğrudan toplamaz.
 
-### 1. Giriş
+###2. Toplanan Bilgiler ve Kullanımı
+Kişisel Veriler:
+elBeyan Sözlük uygulaması, kullanıcılarından doğrudan hiçbir kişisel veri (isim, e-posta, telefon numarası vb.) toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.
 
-Bu Gizlilik Politikası, elBeyan Sözlük mobil uygulamasının kullanıcılarının gizliliğini koruma taahhüdümüzü açıklamaktadır. Uygulamamız yalnızca Google AdMob reklamlarını göstermek amacıyla üçüncü taraf hizmet sağlayıcıları kullanmaktadır. Kullanıcıların kişisel verileri doğrudan toplanmamakta, işlenmemekte veya saklanmamaktadır. Reklamların kaldırılması, kullanıcıların belirli bir ücret karşılığında reklamları devre dışı bırakmalarına olanak tanır.
+Üçüncü Taraf Hizmetleri:
+Uygulama, aşağıdaki üçüncü taraf hizmet sağlayıcıları üzerinden bazı anonim bilgileri toplayabilir:
 
-### 2. Toplanan Bilgiler ve Kullanımı
+Google AdMob:
+Reklamların gösterilmesi amacıyla kullanılır. Google AdMob aşağıdaki bilgileri toplayabilir:
 
-##Kişisel Veriler: elBeyan Sözlük uygulaması, kullanıcılarından doğrudan hiçbir kişisel veri toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz. Uygulamanın kullanımına dair herhangi bir kullanıcı kimliği, e-posta adresi veya kişisel bilgi işlenmemektedir.
-
-### Reklamlar ve Üçüncü Taraf Hizmetleri:
-elBeyan Sözlük uygulaması, Google AdMob hizmetleri aracılığıyla reklamlar göstermektedir. Google AdMob, kişiselleştirilmiş reklamlar göstermek ve reklam performansını analiz etmek amacıyla belirli kullanıcı bilgilerini toplayabilir. Bu bilgiler şunları içerebilir:
-
-Cihaz Bilgileri (Cihaz türü, işletim sistemi, benzersiz cihaz kimlikleri gibi)
+Cihaz Bilgileri (cihaz türü, işletim sistemi, benzersiz cihaz kimlikleri)
 
 IP Adresi
 
-Coğrafi Konum (Genellikle genel konum)
+Coğrafi Konum (yaklaşık konum)
 
-Reklam Kimlikleri (IDFA veya AAID gibi)
+Reklam Kimlikleri (IDFA, AAID gibi)
 
-Google AdMob’un veri toplama ve işleme politikaları hakkında daha fazla bilgi almak için lütfen Google AdMob Gizlilik Politikası sayfasını ziyaret edin.
+Daha fazla bilgi için Google AdMob Gizlilik Politikası sayfasını ziyaret edebilirsiniz.
 
-### 3. Reklamların Kaldırılması
+Firebase Analytics:
+Uygulamanın kullanım istatistiklerini analiz etmek amacıyla kullanılır. Firebase Analytics aşağıdaki bilgileri anonim olarak toplayabilir:
 
-Kullanıcılar, uygulama içi satın alma işlemi yoluyla reklamları kaldırabilir. Bu işlem, hiçbir kişisel bilginin toplanmasını veya saklanmasını gerektirmez. Reklamları kaldırma özelliği yalnızca uygulama içi satın alma geçmişine dayalı olarak etkinleştirilmektedir.
+Uygulama açılma sayısı
 
-### 4. Güvenlik
+Hangi özelliklerin ne sıklıkla kullanıldığı
 
-elBeyan Sözlük uygulaması, kullanıcıların kişisel verilerini doğrudan toplamadığından, veri güvenliği riski taşımamaktadır. Ancak, reklam hizmetleri sağlayıcısı olan Google AdMob'un güvenlik uygulamaları konusunda bilgi edinmeniz önerilir.
+Cihaz tipi ve işletim sistemi
 
-### 5. Gizlilik Politikasındaki Değişiklikler
+Kullanıcının ülke düzeyinde konumu
 
-Bu Gizlilik Politikası zaman zaman güncellenebilir. Herhangi bir değişiklik yapılması durumunda, güncellenmiş politika bu sayfada yayınlanacaktır. Kullanıcıların, bu politikayı düzenli olarak gözden geçirmeleri önerilir.
+Bu bilgiler kişisel olarak tanımlanabilir değildir.
 
-### 6. İletişim Bilgileri
+Firebase Remote Config:
+Uygulama içeriğini ve davranışını uzaktan yönetmek için kullanılır. Remote Config, kullanıcıya özel içerik sunulmasına olanak tanır. Bu süreçte, cihaz bilgileri ile anonim kullanıcı davranışları kullanılabilir.
 
-Bu Gizlilik Politikası hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen şu adresten bizimle iletişime geçin: elbeyanapp@gmail.com.
+Google Firebase’in veri toplama uygulamaları hakkında detaylı bilgiye Firebase Gizlilik ve Güvenlik Politikası sayfasından ulaşabilirsiniz.
 
-### 7. Kabul
+###3. Reklamların Kaldırılması
+Kullanıcılar, uygulama içi satın alma yoluyla reklamları kaldırabilir. Bu işlem sırasında kişisel bilgi toplanmaz. Reklamsız kullanım hakkı, yalnızca cihazın satın alma geçmişine göre etkinleştirilir.
 
-Uygulamayı kullanarak bu Gizlilik Politikası'nı kabul etmiş sayılırsınız.
+###4. Güvenlik
+elBeyan Sözlük uygulaması doğrudan kişisel veri toplamaz. Ancak üçüncü taraf sağlayıcılar tarafından toplanan veriler için ilgili servislerin (örneğin Google) güvenlik önlemlerini incelemeniz önerilir.
+
+###5. Gizlilik Politikasındaki Değişiklikler
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Yapılan değişiklikler bu sayfa üzerinden duyurulur. Kullanıcıların politikayı düzenli aralıklarla kontrol etmeleri önerilir.
+
+###6. İletişim Bilgileri
+Herhangi bir soru veya geri bildiriminiz için bizimle şu adresten iletişime geçebilirsiniz:
+📧 elbeyanapp@gmail.com
+
+###7. Kabul
+Uygulamayı kullanarak bu Gizlilik Politikası’nı kabul etmiş sayılırsınız.
